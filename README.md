@@ -1,29 +1,26 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+# Olá, eu sou Iven Rodrigues! 🐧
+### 🚀 Em transição para SysAdmin & DevOps
 
-<h3> Olá, eu sou Iven Rodrigues!  Seja bem vindo(a) ao meu perfil GitHub! 👋🏻 </h3> 
-<h4></h4>  
+Deixando o mundo do Front-end para mergulhar nas profundezas da **Infraestrutura**. Meu foco atual é automação, sistemas operacionais e containerização.
 
-- 🌱 I’m currently learning: CSS - HTML
-- 🤔 I’m looking for help with : CSS - HTML - JS
+- 🔭 Atualmente estudando: **Linux (Pop!_OS/Debian)** e **Redes**
+- 🐳 Projetos recentes: **Dockerização de aplicações Web**
+- ⚡ Objetivo: Me tornar um Engenheiro DevOps
 
-##
-
-<h3> 🌐 Redes Sociais: <br></h3>
-
-
-<div>  
- 
-   <a href="https://www.linkedin.com/in/iven-rodrigues-santos-a7a309194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href = "mailto:ivenrodriguesww@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-   <a href="https://www.instagram.com/oieusouiven/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- </a>
- 
-<br>
-  
-<div align="center" style="display: inline_block"> 
-  <img align="center" alt="Ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ally-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ally-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+### 🛠 Tech Stack (Infra)
+<div style="display: inline_block">
+  <img align="center" alt="Iven-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Iven-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Iven-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+  <img align="center" alt="Iven-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+### 📫 Contato & Redes
+<div style="display: inline_block">
+  <a href="SEU_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
