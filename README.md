@@ -1,7 +1,7 @@
 # Olá, eu sou Iven Rodrigues! 🐧
 ### 🚀 Em transição para SysAdmin & DevOps
 
-Deixando o mundo do Front-end para mergulhar nas profundezas da **Infraestrutura**. Meu foco atual é automação, sistemas operacionais e containerização.
+Mergulhando nas profundezas da **Infraestrutura**. Meu foco atual é automação, sistemas operacionais e containerização.
 
 - 🔭 Atualmente estudando: **Linux (Pop!_OS/Debian)** e **Redes**
 - 🐳 Projetos recentes: **Dockerização de aplicações Web**
