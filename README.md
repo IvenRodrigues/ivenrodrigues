@@ -4,7 +4,6 @@
 Mergulhando nas profundezas da **Infraestrutura**. Meu foco atual é automação, sistemas operacionais e containerização.
 
 - 🔭 Atualmente estudando: **Linux (Pop!_OS/Debian)** e **Redes**
-- 🐳 Projetos recentes: **Dockerização de aplicações Web**
 - ⚡ Objetivo: Me tornar um Engenheiro DevOps
 
 ### 🛠 Tech Stack (Infra)
